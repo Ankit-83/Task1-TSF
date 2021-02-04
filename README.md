@@ -1,2 +1,2 @@
 # Task1-TSF
-First task as an intern in The sparks foundation
+It was my first task as an intern - Data science and business analytics at The Sparks Foundation.
